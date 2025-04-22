@@ -4,9 +4,9 @@
 - Que es el PMBOK?
 - Que es PMP?
 - Que es UAT?
-- Que se realiza en la planificación de la calidad?
-- Que se realiza en el aseguramiento de la calidad?
-- Que se realiza en el control de calidad?
+- Que es y que se realiza en la planificación de la calidad?
+- Que es y que se realiza en el aseguramiento de la calidad?
+- Que es y que se realiza en el control de calidad?
 
 ## Apuntes
 
@@ -19,12 +19,12 @@
 	- Criterios de aceptación
 	- Plan de gestión de la calidad
 	- Herramientas y técnicas
-- Aseguramiento de la Calidad: Evita problemas de calidad
+- Aseguramiento de la Calidad: Actividades que evalúan procesos, evitando problemas de calidad.
 	- Auditorias y revisiones de procesos
 	- Mejores prácticas
 	- Identificar riesgos de calidad
 	- Mejora continua de los procesos
-- Control de Calidad: Solucionar problemas de calidad que surjan
+- Control de Calidad: Solucionar problemas de calidad, se realiza pruebas o procesos técnicos hacia el producto
 	- Realizar inspecciones y pruebas
 	- Medir el rendimiento
 	- Identificar defectos
