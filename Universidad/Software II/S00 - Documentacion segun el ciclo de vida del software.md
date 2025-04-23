@@ -1,14 +1,10 @@
-## Preguntas
-
-- Cuales son los procesos que deben estar documentados cuando se desarrolla software y que se realiza en cada uno de ellos?
-
 ## Apuntes
 
 1. **Planificación**
 	- Planificación del proyecto (cronograma, asignacion de tareas, estimacion de esfuerzo y tiempo)
+	pull
 2. **Análisis de Requisitos**
-	- Documentacion de requisitos funcionales y no funcionales.
-	- Documento de gestion de cambios
+	- Gestion de requisitos (doc. reqs funcionales y no funcionales, reglas de negocio, casos de uso y documento sobre la gestion de cambios)
 3. **Diseño**
 	- Documento de analisis y disenio (uso de diagramas UML y diagrama ER)
 	- Documento de estandares programcion
@@ -19,10 +15,8 @@
 	- Plan de Gestion de calidad
 	- Planificacion de pruebas (realizar pruebas unitarias, automatizar pruebas)
 6. **Despliegue**
-	- Documentacion de instalacion del sistema
+	- Documentacion de despliegue (instalacion del sistema, capaticacion de usuario)
 7. **Mantenimiento**
-	- Registro de errores
-	- Documentacion de soluciones
+	- Gestion de incidentes (registro de errores, documentacion de soluciones)
 	- Documento de lecciones aprendidas
 	- Documento sobre soporte tecnico
-	- Documento sobre como corregir errores
