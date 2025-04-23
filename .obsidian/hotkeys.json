@@ -112,7 +112,7 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "7"
+      "key": "5"
     }
   ],
   "workspace:goto-tab-7": [],
@@ -132,5 +132,6 @@
       ],
       "key": "G"
     }
-  ]
+  ],
+  "workspace:goto-tab-5": []
 }
