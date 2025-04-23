@@ -2,7 +2,6 @@
 
 1. **Planificación**
 	- Planificación del proyecto (cronograma, asignacion de tareas, estimacion de esfuerzo y tiempo)
-	pull
 2. **Análisis de Requisitos**
 	- Gestion de requisitos (doc. reqs funcionales y no funcionales, reglas de negocio, casos de uso y documento sobre la gestion de cambios)
 3. **Diseño**
