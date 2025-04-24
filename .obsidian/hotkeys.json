@@ -102,7 +102,7 @@
   "workspace:close": [
     {
       "modifiers": [
-        "Alt"
+        "Mod"
       ],
       "key": "W"
     }
@@ -133,5 +133,14 @@
       "key": "G"
     }
   ],
-  "workspace:goto-tab-5": []
+  "workspace:goto-tab-5": [],
+  "workspace:close-window": [],
+  "darlal-switcher-plus:switcher-plus:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ]
 }

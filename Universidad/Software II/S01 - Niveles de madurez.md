@@ -13,7 +13,7 @@
 - CMMI tiene dos tipos de niveles:
 	- Madurez: representación por etapas
 	- Capacidad: representación continua
-- Los niveles de madurez son: (Recuerda los [[S00 - Fundamentos del desarrollo de software|procesos necesarios documentados en el desarrollo de software]])
+- Los niveles de madurez son:
 	1. Inicial: procesos informales (procesos impredecibles, poco controlados y reactivos)
 	2. Gestionado: establece procesos básicos a nivel de proyecto (gestión de cambios, configuración, planificación de proyecto).
 	3. Definido: todos los procesos documentados a nivel de la organización.
@@ -25,3 +25,7 @@
 
 El CMMI evalúa los procesos de una organización, para ello, usa dos tipos de niveles, los niveles de capacidad y madurez, el cual esta representado por etapas: inicial, gestionado, definido, gestionado cuantitativamente y optimizado.
 El ciclo de vida del proyecto tiene 7 etapas: planificación, analisis de requisitos, diseño, implementacion, pruebas, despliegue y mantenimiento.
+
+## Recursos
+
+[[S00 - Fundamentos del desarrollo de software]]
