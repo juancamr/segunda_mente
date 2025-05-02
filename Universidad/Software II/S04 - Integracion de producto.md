@@ -28,3 +28,5 @@ La integración del producto tiene tres metas, preparar la integración (diagram
 
 1. Crear un diagrama de secuencia para un registro de usuario.
 	![[Pasted image 20250420133724.png]]
+2. Crear un diagrama de secuencia que permita editar el nombre de una mascota de un cliente como administrador.
+3. Crear un diagrama de secuencia sobre "editar la direccion de entrega de un cliente"
