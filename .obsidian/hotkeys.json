@@ -1,19 +1,13 @@
 {
-  "switcher:open": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "P"
-    }
-  ],
+  "switcher:open": [],
   "editor:toggle-comments": [],
   "command-palette:open": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
-      "key": "L"
+      "key": "P"
     }
   ],
   "editor:toggle-checklist-status": [],
@@ -110,9 +104,9 @@
   "app:go-back": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
-      "key": "5"
+      "key": "ArrowLeft"
     }
   ],
   "workspace:goto-tab-7": [],
@@ -141,6 +135,22 @@
         "Mod"
       ],
       "key": "P"
+    }
+  ],
+  "obsidian-another-quick-switcher:search-command_file-name-search": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
     }
   ]
 }
