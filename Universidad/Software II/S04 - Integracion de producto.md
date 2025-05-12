@@ -4,7 +4,7 @@
 - Cuales son las metas especificas?
 - Menciona ejemplos de herramientas para la integración del producto.
 - Que enfoque usa el diagrama de secuencia?
-- Cual es la relación entre un diagrama de secuencia y las funciones del sistema?
+- Qué representa un diagrama de secuencia sobre los requisitos?
 
 ## Apuntes 📝
 

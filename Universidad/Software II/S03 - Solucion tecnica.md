@@ -16,13 +16,6 @@
 	- Diagrama entidad relación
 	- Diagrama de despliegue
 	- Diagrama de paquetes
-- Partes del diagrama de despliegue:
-	- Nodos
-	- Componentes
-	- Conectores
-	- Asociaciones
-	- Interfaces
-	- Protocolos
 
 ## Resumen
 
