@@ -11,14 +11,12 @@
 - La garantia de calidad estadistica, es un enfoque que monitorea, controla y mejora utilizando un analisis cuantitativo con herramientas estadisticas.
 - SPC es Statistical Process Control, ayuda a identificar cualquier desviacion en el proceso.
 - Los pasos para abordar un caso: se separa en 3 etapas:
-	1. Definir metricas de calidad
-	2. Establecer puntos de control en el ciclo de vida del desarrollo de software
-	3. Implementar pruebas de calidad estadistica
-	4. Recopilar datos y realizar analisis estadistico
-	5. Realizar analisis de causa raiz
-	6. Implementar acciones correctivas y preventivas
-	7. Evaluar la efectividad de las acciones tomadas
-	8. Ajustar y mejorar el proceso de garantia de calidad estadistica
+	1. Definir KPIs
+	2. Recopilar datos
+	3. Analizar los datos
+	4. Implementar solución
+	5. Seguimiento 
+	6. Mejora continua
 - Graficos usasdos en la garantia de calidad estaditica: 
 	- Diagrama de Ishikawa (causa efecto): Identifica las causas de un problema.
 	- Diagrama de pareto: Tiene un enfoque 80 a 20, demostrando que un pequeño porcentaje de causas tiene un efecto descomunal.
