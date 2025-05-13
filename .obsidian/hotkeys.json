@@ -96,7 +96,8 @@
   "workspace:close": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "Z"
     }

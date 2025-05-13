@@ -4,6 +4,7 @@
 - Que es una necesidad funcional?
 - Que es una caracteristica implicita?
 - Cuales son los procesos para implementar los fundamentos del aseguramiento de la calidad en un proyecto?
+- Cuales son las secciones del SQA? 
 
 ## Apuntes
 
@@ -18,6 +19,20 @@
 	5. Mejora continua
 	6. Enfoque basado en evidencia
 	7. Relaciones mutuamente beneficiosas con los proveedores
-
-## Resumen
-
+- Secciones del plan de SQA:
+	1. Proposito
+	2. Documento de referencia
+	3. Gestion
+	4. Documentacion
+	5. Estandares
+	6. Revisiones de software
+	7. Prueba
+	8. Accion correctiva
+	9. Herramientas
+	10. Control de medios
+	11. Proveedores
+	12. Registros
+	13. Formacion
+	14. Riesgo
+	15. Glosario
+	16. Cambios
