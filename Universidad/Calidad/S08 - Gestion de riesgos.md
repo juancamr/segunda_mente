@@ -12,7 +12,7 @@
 
 - Pasos de la gestión de riesgos:
 	1. Planificación
-	2. Identificaciókn de riesgos
+	2. Identificación de riesgos
 	3. Análisis cualitativo
 	4. Análisis cuantitativo (opcional)
 	5. Planificación e implementación de respuestas
