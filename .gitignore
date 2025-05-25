@@ -1,7 +1,6 @@
 .obsidian/*
 
 !.obsidian/hotkeys.json
-!.obsidian/community-plugins.json
 !.obsidian/core-plugins.json
 .trash/
 zMaterial
