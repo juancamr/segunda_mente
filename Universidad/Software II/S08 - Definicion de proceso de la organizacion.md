@@ -1,4 +1,4 @@
-a## Preguntas
+## Preguntas
 
 - Que significa BPMN?
 

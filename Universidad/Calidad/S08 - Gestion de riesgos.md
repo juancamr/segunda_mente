@@ -46,7 +46,7 @@
 
 ## Ejercicio hecho en clase
 
-- identificar los riesgos de un proyecto
+- Identificar los riesgos de un proyecto
 	- renuncia de un programador
 	- problemas de integracion
 	- alcance mal definido
@@ -55,4 +55,5 @@
 	- problemas con proveedor externo
 	- cambios regulatorios o legales
 	- caida del servidor
-	
+
+
